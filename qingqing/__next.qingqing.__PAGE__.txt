@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
 2:I[1440,[],"ClientPageRoot"]
-3:I[1059,["974","static/chunks/app/page-3ca77340208093dd.js"],"default"]
+3:I[5476,["175","static/chunks/app/qingqing/page-9b57e7b878d95c6e.js"],"default"]
 6:I[2748,[],"OutletBoundary"]
 7:"$Sreact.suspense"
 0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],null,["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"portfolio-v1"}
